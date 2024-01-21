@@ -1,10 +1,9 @@
 # DSAChatbot
 
-<img width="1715" alt="Screenshot 2024-01-21 at 2 41 23 PM" src="https://github.com/neelam-yadav/DSAChatbot/assets/6128384/c073663c-6219-4a81-8398-4deb9838a518">
-
-
 ## Introduction
 This is a sample chatbot trained on Data Structures and Algorithms. It can be trained on more data and it is open for playing around.
+
+<img width="1715" alt="Screenshot 2024-01-21 at 2 41 23 PM" src="https://github.com/neelam-yadav/DSAChatbot/assets/6128384/c073663c-6219-4a81-8398-4deb9838a518">
 
 ## Setup
 1. **Install the dependencies:
